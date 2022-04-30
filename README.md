@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Orhannboz
-- 👀 I’m interested in Web developing,
+- 👀 I’m interested in back-end technologies
 - 🌱 I’m currently learning Spring boot, React, Js, Kotlin, Java
 - 📫 How to reach me orhanboz1999@gmail.com
 
