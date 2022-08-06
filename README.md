@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Orhannboz
+- 👋 Hi, I’m Orhan
 - 👀 I’m interested in back-end technologies
-- 🌱 I’m currently learning Spring boot, React, Js, Kotlin, Java
+- 🖥️ I’m currently working for Doğuş Teknoloji
+- 👨‍🎓 I've graduate in Canakkale On Sekiz Mart University
+- 🎓 I've studied computer science in college also in high scholl
 - 📫 How to reach me orhanboz1999@gmail.com
 
 <!---
